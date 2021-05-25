@@ -4,4 +4,5 @@ base:
   
   pkg.installed:
     - name: net-tools
+    - name: screen
   
