@@ -4,3 +4,4 @@ base-install:
       - zip
       - curl
       - htop
+      - net-tools

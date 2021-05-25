@@ -4,3 +4,4 @@ base-uninstall:
       - zip
       - curl
       - htop
+      - net-tools
