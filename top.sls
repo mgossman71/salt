@@ -3,6 +3,7 @@ base:
   - base.packages
   
   pkg.installed:
-    - name: net-tools
-    - name: screen
+    - pkgs:
+      - net-tools
+      - screen
   
